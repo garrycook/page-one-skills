@@ -113,6 +113,8 @@ The Visit line goes on every Page One made for a specific appointment, and the s
 
 The version stamp (date and time the page was made) goes in the footer of Page One, of every supporting page, and of the prep sheet, and changes every time one is remade. Pages get reprinted as facts come in, and the stamp is how the family tells the current copy from an old one.
 
+Keep every printed line, footers included, at least half an inch from each edge of the paper. Most home and office printers can't print closer to the edge than that, and a footer set too low gets cut off, taking the set label, the version stamp, and the pageoneproject.org line with it.
+
 Choosing "Needs attention now": what a doctor seeing this patient today would most regret not knowing. Good examples: a dangerous mismatch between records, a medicine the patient has run out of, a test ordered long ago and never done, a value drifting the wrong way, a recent hospital stay. Put the most important first.
 
 ### When it doesn't fit: move it back, don't throw it away
@@ -199,6 +201,7 @@ Good questions are specific and tied to the records ("My blood sugar has gone up
 - Set 1 goes to the front desk at check-in, all pages, with a request to scan it into the chart.
 - From Set 2, hand Page One to the doctor as they walk in, before the visit starts. Keep the rest of Set 2 on the desk or in hand, in case they want the detail.
 - The prep sheet stays with the family. Bring a pen.
+- After printing, look at the bottom of one sheet. If the last line is cut off, print again with "Fit to page" (or "Fit to printable area") turned on.
 - If a page was remade, check the version stamp and throw out the older copies before leaving the house.
 - After the visit, update Page One with anything new, so the next visit starts from today.
 
