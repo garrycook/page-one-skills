@@ -1,6 +1,11 @@
 ---
 name: page-one-brief
 description: Builds a Page One, the single printed page a patient or caregiver hands to any doctor, plus a private visit prep sheet of questions, from the patient's own health records (connected health records, downloaded visit summaries, lab results, or notes). Use when someone wants to prepare for a doctor's appointment, summarize a parent's or their own medical history for a new doctor, or make a one-page medical summary for a visit, hospital stay, or emergency.
+license: CC-BY-4.0
+metadata:
+  author: The Page One Project
+  homepage: https://pageoneproject.org
+  source: https://github.com/garrycook/page-one-skills
 ---
 
 # Page One: one page for every doctor, plus your prep sheet

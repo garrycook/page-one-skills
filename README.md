@@ -44,7 +44,13 @@ Along the way, the skill:
 
 **ChatGPT or any other assistant.** Open the [text version](https://pageoneproject.org/skills/page-one-brief.txt), copy all of it, and paste it into a new chat. Then tell it who the page is for.
 
-**Coding agents that read the open SKILL.md format.** Copy the `skills/page-one-brief` folder into your agent's skills directory.
+**Claude Code, Cursor, Codex, and other coding agents.** One line installs it with the open [skills](https://skills.sh) installer:
+
+```
+npx skills add garrycook/page-one-skills
+```
+
+It asks which of your agents should get the skill. To look before you install, add `--list` to the end. Or copy the `skills/page-one-brief` folder into your agent's skills directory by hand.
 
 Then say something like: "Make a Page One and prep sheet for my appointment on Wednesday."
 
@@ -66,6 +72,14 @@ The Page One Project is not a medical provider and does not give medical advice.
 
 ## License and credit
 
-MIT License. See [LICENSE](LICENSE). You're free to use, change, and share these skills.
+Copyright 2026 Garry Cook, The Page One Project.
 
-If you share or adapt them, please keep the line "Format by The Page One Project, pageoneproject.org" that the skill prints at the bottom of each page. That line is how the next family, and the next doctor, finds the method.
+These skills are licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). The full terms are in [LICENSE](LICENSE). You're free to use, change, and share them, including in paid products and services, as long as you give credit.
+
+**How to give credit.** Wherever you share a skill or something built from it, include this, with the links, and say what you changed:
+
+> Based on the Page One skills by [The Page One Project](https://pageoneproject.org), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**One more request.** Please keep the line "Format by The Page One Project, pageoneproject.org" that the skill prints at the bottom of each page. That's a request, not a license term. That line is how the next family, and the next doctor, finds the method.
+
+The first version posted here (commit `9781074`) was released under the MIT License. Copies made from that version keep those terms.
