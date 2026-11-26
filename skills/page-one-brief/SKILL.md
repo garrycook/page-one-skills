@@ -42,6 +42,7 @@ In one short message, ask:
    If their records are spread across portals they haven't set up yet, point them to https://pageoneproject.org/portals (or the page-one-portals skill) to find, link, and share them first.
 4. What the family knows that the chart may not: which medicines are really being taken and how, anything that has run out, anything new since the last visit, and allergies.
 5. Who makes decisions if the patient can't, with that person's phone number, and who else to call.
+6. How they'll print it: a regular printer (full letter-size pages), or a portable thermal printer that prints on a paper roll, like a Phomemo. If it's a portable printer, ask the roll width (most 4-inch printers, like the Phomemo M04S, take 53 mm, 80 mm, or 110 mm rolls) and whether the roll is plain paper or sticker paper. If they don't know, assume 110 mm plain paper and say so.
 
 If the date of birth or the decision maker's phone number is still missing when you're ready to write, ask again before you finish. Don't print a blank line or a calculated date on a page a doctor will trust.
 
@@ -151,7 +152,18 @@ Number the pages within each set ("Page 1 of 3"), not across the whole printout.
 
 If you can only produce text, give the three sets in the same order under clear headings.
 
-**Hospital stays:** if the person has a small thermal printer (the "4-inch strip" kind), also offer a one-column version of Page One, so they can tear off a fresh copy for each new nurse or doctor. Supporting pages don't go on the strip.
+### Portable printer version (thermal roll, like a Phomemo)
+
+Use this when the person said in Step 1 that they print on a portable thermal printer. Offer it for hospital stays too, so they can tear off a fresh copy for each new nurse or doctor. Everything else in this skill still applies: the same facts, the same order, the same limits, the same review checklist.
+
+- **Page size:** make a PDF whose page width matches the roll exactly (110 mm, 80 mm, or 53 mm) and whose length runs as long as the content needs. One continuous page per strip, not letter-size pages. Never shrink a letter-size page down to fit the roll; the type becomes unreadable.
+- **Margins:** keep 4 mm of blank space on each side and 8 mm at the top and bottom, so nothing is cut at the edge or at the tear.
+- **One column:** headings on their own line, then each item. Put the source and date on the line under each fact, in smaller type, instead of in a column to the right.
+- **Type:** black only, no gray, no shading, no colored boxes (thermal printers have no gray, so they print it as a pattern of dots). Body text at least 9 pt on a 110 mm roll, 8 pt on narrower rolls; headings bold. On a 53 mm roll, keep to Page One only and leave out the Visit line's address.
+- **Strips, not sets:** print each piece as its own strip: Page One (one strip per person who should get it: front desk, provider, and one extra for each new nurse or doctor at a hospital stay), and the prep sheet as a separate strip that stays with the family. Put the set label at the top of each strip as well as the bottom, since the top is what people see first when they tear one off. Supporting pages go on a regular printer, or are left out.
+- **Footer:** end every strip with the version stamp and the "Format by The Page One Project, pageoneproject.org" line.
+- **How to print:** tell the person to open the PDF in the printer's phone app (the Phomemo app for a Phomemo), choose the matching paper width, set the scale to 100 percent or "fit width," and print one strip first to check that nothing is cut off.
+- **Sticker paper:** if the roll is sticker paper, say so: a strip can be stuck inside a folder, but it's harder to hand over and can't go through a scanner. Plain paper is better for anything the front desk will scan.
 
 ## Step 4. Write the prep sheet (the family keeps this one)
 
@@ -198,6 +210,7 @@ Good questions are specific and tied to the records ("My blood sugar has gone up
 ## Step 5. How to use them (tell the person)
 
 - Print the whole file once, single-sided, and sort it by the label at the bottom of each sheet.
+- On a portable printer: print each strip at 100 percent on the matching paper width, check the first one, and hand them out by the label at the top.
 - Set 1 goes to the front desk at check-in, all pages, with a request to scan it into the chart.
 - From Set 2, hand Page One to the doctor as they walk in, before the visit starts. Keep the rest of Set 2 on the desk or in hand, in case they want the detail.
 - The prep sheet stays with the family. Bring a pen.
