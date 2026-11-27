@@ -6,7 +6,7 @@ metadata:
   author: The Page One Project
   homepage: https://pageoneproject.org
   source: https://github.com/garrycook/page-one-skills
-  version: "2026-11-27"
+  version: "2026-11-28"
 ---
 
 # Page One: one page for every doctor, plus your prep sheet
@@ -15,7 +15,7 @@ Patients' records are spread across health systems that often can't see each oth
 
 You make two things:
 1. **Page One**, for the doctor. One printed page. Facts only.
-2. **The prep sheet**, for the family. Questions, things to report, and chart corrections. It stays with them.
+2. **The prep sheet**, for the family. Questions, things to report, record fixes to make before the visit, and the corrections that need the doctor. It stays with them.
 
 When there is more worth keeping than fits on one page, you also make **supporting pages** that go behind Page One (Step 3). Page One is still one page.
 
@@ -69,6 +69,13 @@ Then, before writing, go through all of it and build working notes (these are fo
 - **Trends:** labs and vitals over time (oldest to newest), especially ones out of range or drifting.
 - **Recent care:** hospital stays, emergency visits, procedures, and new diagnoses in the last year.
 - **Conflicts:** anywhere two sources disagree.
+
+**Sort every record correction three ways.** Most record fixes don't need the doctor, and they eat up a short visit. For each correction, take the first way that works:
+1. **Fix it yourself, in the portal.** Things many portals let the patient change: the medication list (stopped medicines, over-the-counter medicines and supplements), allergies, health and family history, contact info, and pharmacy. The online check-in before a visit usually covers these. If you don't know whether this portal allows it, say "try the check-in first; if it won't let you, send a message."
+2. **Ask in a portal message.** Things the office can fix without a visit: prescription directions that don't match what the doctor said, an outside result missing from the chart, a refill sent to the wrong pharmacy, a medicine the patient can't remove from the list themselves.
+3. **Raise it at the visit.** Only what needs the clinician's judgment: a diagnosis that looks wrong, a dose the records disagree on, a medicine the patient isn't sure they should still take, a note that doesn't match what happened.
+Steps for the person: https://pageoneproject.org/fix-your-record and https://pageoneproject.org/medication-list. If the page-one-portals skill is available, hand it buckets 1 and 2 so it can give the exact portal and check-in steps.
+Page One itself is unchanged by this: any dose that differs between records still shows on Page One, whatever bucket the fix is in.
 
 ## Step 3. Write Page One
 
@@ -182,7 +189,9 @@ What we want from this visit
 - [One or two sentences]
 
 Before you go
-[ ] Online check-in, if the portal offers it
+[ ] Online check-in, if the portal offers it. Use it to make the fixes below.
+[ ] Fix in the portal yourself: [each bucket 1 correction, one line each]
+[ ] Send a portal message: [each bucket 2 correction, with the date to send it by so the office can act before the visit]
 [ ] Insurance card and photo ID (say so if the portal or a notice shows an insurance or billing problem)
 [ ] The printout, sorted into its three sets and paper-clipped (don't staple the front desk set)
 [ ] The actual bottles for anything in question (over-the-counter products, supplements, a dose the records disagree on)
@@ -196,15 +205,15 @@ Questions (most important first)
 Since the last visit
 - [Symptoms, changes, side effects, falls, ER visits, new medicines, medicines that ran out, how a new medicine is going]
 
-Ask them to fix the record
-[ ] [Each wrong dose, stopped medicine still listed, missing allergy, outdated history]
+Ask the doctor to fix the record (only what needs the doctor)
+[ ] [Each correction that needs the doctor's judgment, for example a dose the records disagree on or a diagnosis that looks wrong]
 
 Notes (leave room to write during the visit)
 
 Version: [date and time made]
 ```
 
-The banner at the top is there so the prep sheet doesn't get handed over or scanned by mistake. Keep "Before you go" to what this visit actually needs; drop lines that don't apply.
+The banner at the top is there so the prep sheet doesn't get handed over or scanned by mistake. Keep "Before you go" to what this visit actually needs; drop lines that don't apply. "Ask the doctor to fix the record" carries bucket 3 corrections only (Step 2); buckets 1 and 2 go under "Before you go."
 
 Good questions are specific and tied to the records ("My blood sugar has gone up on each of the last three tests. Should anything change, and can we recheck it today?"), not general ("Is my blood sugar okay?"). Aim for 5 to 10.
 
