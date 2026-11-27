@@ -6,6 +6,7 @@ metadata:
   author: The Page One Project
   homepage: https://pageoneproject.org
   source: https://github.com/garrycook/page-one-skills
+  version: "2026-11-27"
 ---
 
 # Page One: one page for every doctor, plus your prep sheet
